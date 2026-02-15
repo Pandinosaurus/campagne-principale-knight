@@ -1,15 +1,5 @@
-2026/02/04-19:13:58.149 2b2c Recovering log #1388
-2026/02/04-19:13:58.159 2b2c Delete type=0 #1388
-2026/02/04-19:13:58.159 2b2c Delete type=3 #1387
-2026/02/04-20:27:11.004 24a0 Level-0 table #1392: started
-2026/02/04-20:27:11.004 24a0 Level-0 table #1392: 0 bytes OK
-2026/02/04-20:27:11.007 24a0 Delete type=0 #1390
-2026/02/04-20:27:11.016 24a0 Manual compaction at level-0 from '!messages!01URpkytif6hTCbV' @ 72057594037927935 : 1 .. '!messages!zwqQ8Y4E1PhSBhSu' @ 0 : 0; will stop at '!messages!zwqQ8Y4E1PhSBhSu' @ 11151 : 1
-2026/02/04-20:27:11.016 24a0 Compacting 2@0 + 0@1 files
-2026/02/04-20:27:11.068 24a0 Generated table #1393@0: 125 keys, 2196423 bytes
-2026/02/04-20:27:11.098 24a0 Generated table #1394@0: 39 keys, 185096 bytes
-2026/02/04-20:27:11.100 24a0 Compacted 2@0 + 0@1 files => 2381519 bytes
-2026/02/04-20:27:11.102 24a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2026/02/04-20:27:11.102 24a0 Delete type=2 #1384
-2026/02/04-20:27:11.102 24a0 Delete type=2 #1385
-2026/02/04-20:27:11.103 24a0 Manual compaction at level-0 from '!messages!zwqQ8Y4E1PhSBhSu' @ 11151 : 1 .. '!messages!zwqQ8Y4E1PhSBhSu' @ 0 : 0; will stop at (end)
+2026/02/15-11:57:40.221 1684 Log #1428: 0 ops saved to Table #1431 OK
+2026/02/15-11:57:40.225 1684 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/001428.log: OK
+2026/02/15-11:57:40.241 1684 Table #1430: 15 entries OK
+2026/02/15-11:57:40.249 1684 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages/MANIFEST-001395: OK
+2026/02/15-11:57:40.255 1684 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/messages; recovered 1 files; 793907 bytes. Some data may have been lost. ****
