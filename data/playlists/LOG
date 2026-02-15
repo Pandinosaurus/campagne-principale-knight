@@ -1,11 +1,14 @@
-2026/02/15-11:57:41.552 1fc4 Delete type=3 #1
-2026/02/15-13:15:03.388 495c Level-0 table #864: started
-2026/02/15-13:15:03.389 495c Level-0 table #864: 0 bytes OK
-2026/02/15-13:15:03.391 495c Delete type=0 #862
-2026/02/15-13:15:03.407 495c Manual compaction at level-0 from '!playlists!X7sWFavdc2V5WWDo' @ 72057594037927935 : 1 .. '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 0 : 0; will stop at '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 2793 : 1
-2026/02/15-13:15:03.407 495c Compacting 1@0 + 0@1 files
-2026/02/15-13:15:03.412 495c Generated table #865@0: 32 keys, 4816 bytes
-2026/02/15-13:15:03.412 495c Compacted 1@0 + 0@1 files => 4816 bytes
-2026/02/15-13:15:03.415 495c compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/02/15-13:15:03.415 495c Delete type=2 #856
-2026/02/15-13:15:03.421 495c Manual compaction at level-0 from '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 2793 : 1 .. '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 0 : 0; will stop at (end)
+2026/02/15-12:17:24.623329 7f9fa7f0a0 Recovering log #863
+2026/02/15-12:17:24.647334 7f9fa7f0a0 Delete type=3 #861
+2026/02/15-12:17:24.647579 7f9fa7f0a0 Delete type=0 #863
+2026/02/15-16:34:59.229628 7f9493f0a0 Level-0 table #869: started
+2026/02/15-16:34:59.240476 7f9493f0a0 Level-0 table #869: 1934 bytes OK
+2026/02/15-16:34:59.248835 7f9493f0a0 Delete type=0 #867
+2026/02/15-16:34:59.333578 7f9493f0a0 Manual compaction at level-0 from '!playlists!X7sWFavdc2V5WWDo' @ 72057594037927935 : 1 .. '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 0 : 0; will stop at '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 2801 : 1
+2026/02/15-16:34:59.333639 7f9493f0a0 Compacting 1@0 + 1@1 files
+2026/02/15-16:34:59.345148 7f9493f0a0 Generated table #870@0: 32 keys, 4813 bytes
+2026/02/15-16:34:59.345243 7f9493f0a0 Compacted 1@0 + 1@1 files => 4813 bytes
+2026/02/15-16:34:59.352365 7f9493f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/15-16:34:59.352705 7f9493f0a0 Delete type=2 #865
+2026/02/15-16:34:59.353062 7f9493f0a0 Delete type=2 #869
+2026/02/15-16:34:59.483721 7f9493f0a0 Manual compaction at level-0 from '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 2801 : 1 .. '!playlists.sounds!veZYt2l9e3NZwcgL.rB7Ws76IQDPJgJMw' @ 0 : 0; will stop at (end)

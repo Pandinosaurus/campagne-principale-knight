@@ -1,11 +1,14 @@
-2026/02/15-11:57:41.857 43c4 Delete type=3 #1
-2026/02/15-13:15:03.430 495c Level-0 table #1098: started
-2026/02/15-13:15:03.430 495c Level-0 table #1098: 0 bytes OK
-2026/02/15-13:15:03.431 495c Delete type=0 #1096
-2026/02/15-13:15:03.451 495c Manual compaction at level-0 from '!scenes!04aSv7Ox4qdLO69c' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 29630 : 1
-2026/02/15-13:15:03.451 495c Compacting 1@0 + 0@1 files
-2026/02/15-13:15:03.474 495c Generated table #1099@0: 4793 keys, 705535 bytes
-2026/02/15-13:15:03.474 495c Compacted 1@0 + 0@1 files => 705535 bytes
-2026/02/15-13:15:03.477 495c compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/02/15-13:15:03.477 495c Delete type=2 #1093
-2026/02/15-13:15:03.558 495c Manual compaction at level-0 from '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 29630 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)
+2026/02/15-12:17:24.704172 7f9fa7f0a0 Recovering log #1097
+2026/02/15-12:17:24.727363 7f9fa7f0a0 Delete type=3 #1095
+2026/02/15-12:17:24.727603 7f9fa7f0a0 Delete type=0 #1097
+2026/02/15-16:34:59.259034 7f9493f0a0 Level-0 table #1103: started
+2026/02/15-16:34:59.323416 7f9493f0a0 Level-0 table #1103: 396479 bytes OK
+2026/02/15-16:34:59.330699 7f9493f0a0 Delete type=0 #1101
+2026/02/15-16:34:59.372413 7f9493f0a0 Manual compaction at level-0 from '!scenes!04aSv7Ox4qdLO69c' @ 72057594037927935 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at '!scenes.tokens.delta.items!W2D5TJYbWboa5dqT.Q3GtW3bPqTrIaXiV.f2HfGzqer9vcMLaR.LFeoWP3SBPHfzNwP' @ 100819 : 1
+2026/02/15-16:34:59.372467 7f9493f0a0 Compacting 1@0 + 1@1 files
+2026/02/15-16:34:59.474153 7f9493f0a0 Generated table #1104@0: 4855 keys, 734900 bytes
+2026/02/15-16:34:59.474265 7f9493f0a0 Compacted 1@0 + 1@1 files => 734900 bytes
+2026/02/15-16:34:59.479624 7f9493f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/15-16:34:59.480130 7f9493f0a0 Delete type=2 #1099
+2026/02/15-16:34:59.482702 7f9493f0a0 Delete type=2 #1103
+2026/02/15-16:34:59.513481 7f9493f0a0 Manual compaction at level-0 from '!scenes.tokens.delta.items!W2D5TJYbWboa5dqT.Q3GtW3bPqTrIaXiV.f2HfGzqer9vcMLaR.LFeoWP3SBPHfzNwP' @ 100819 : 1 .. '!scenes.walls!zcE60YSCmbNGPwun.z0aD7VkQsEH8L393' @ 0 : 0; will stop at (end)

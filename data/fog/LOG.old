@@ -1,7 +1,15 @@
-2026/02/15-11:57:40.516 1fc4 Log #1126: 0 ops saved to Table #1131 OK
-2026/02/15-11:57:40.518 1fc4 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog/001126.log: OK
-2026/02/15-11:57:40.538 1fc4 Table #1128: 172 entries OK
-2026/02/15-11:57:40.558 1fc4 Table #1129: 113 entries OK
-2026/02/15-11:57:40.570 1fc4 Table #1130: 81 entries OK
-2026/02/15-11:57:40.579 1fc4 Archiving C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog/MANIFEST-001124: OK
-2026/02/15-11:57:40.593 1fc4 **** Repaired leveldb C:/Users/rozierf/AppData/Local/FoundryVTT/Data/worlds/campagne-principale-knight/data/fog; recovered 3 files; 5700643 bytes. Some data may have been lost. ****
+2026/02/15-11:57:40.646 1fc4 Delete type=3 #1
+2026/02/15-13:15:03.440 495c Level-0 table #1135: started
+2026/02/15-13:15:03.440 495c Level-0 table #1135: 0 bytes OK
+2026/02/15-13:15:03.443 495c Delete type=0 #1133
+2026/02/15-13:15:03.478 495c Manual compaction at level-0 from '!fog!01ULs73E2g5PhXEZ' @ 72057594037927935 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at '!fog!zX1366SDnWYaVGAp' @ 1183 : 1
+2026/02/15-13:15:03.478 495c Compacting 3@0 + 0@1 files
+2026/02/15-13:15:03.505 495c Generated table #1136@0: 172 keys, 2143256 bytes
+2026/02/15-13:15:03.532 495c Generated table #1137@0: 113 keys, 2131193 bytes
+2026/02/15-13:15:03.552 495c Generated table #1138@0: 81 keys, 1426194 bytes
+2026/02/15-13:15:03.552 495c Compacted 3@0 + 0@1 files => 5700643 bytes
+2026/02/15-13:15:03.556 495c compacted to: files[ 0 3 0 0 0 0 0 ]
+2026/02/15-13:15:03.556 495c Delete type=2 #1128
+2026/02/15-13:15:03.557 495c Delete type=2 #1129
+2026/02/15-13:15:03.557 495c Delete type=2 #1130
+2026/02/15-13:15:03.561 495c Manual compaction at level-0 from '!fog!zX1366SDnWYaVGAp' @ 1183 : 1 .. '!fog!zX1366SDnWYaVGAp' @ 0 : 0; will stop at (end)
