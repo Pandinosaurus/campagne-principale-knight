@@ -1,14 +1,14 @@
-2026/02/15-12:17:24.235792 7f9fa7f0a0 Recovering log #889
-2026/02/15-12:17:24.261070 7f9fa7f0a0 Delete type=0 #889
-2026/02/15-12:17:24.261376 7f9fa7f0a0 Delete type=3 #887
-2026/02/15-16:34:58.090899 7f9493f0a0 Level-0 table #895: started
-2026/02/15-16:34:58.103642 7f9493f0a0 Level-0 table #895: 10201 bytes OK
-2026/02/15-16:34:58.110639 7f9493f0a0 Delete type=0 #893
-2026/02/15-16:34:58.612702 7f9493f0a0 Manual compaction at level-0 from '!combats!9vMkgw4NaVtK1yyW' @ 72057594037927935 : 1 .. '!combats.combatants!lvjXBkN8MIcRtWVd.bkFO0pqA34HgzNdb' @ 0 : 0; will stop at '!combats.combatants!DCPor3zQpXdt0E33.pHP5hJAhbawwUJh2' @ 1192 : 1
-2026/02/15-16:34:58.612748 7f9493f0a0 Compacting 1@0 + 1@1 files
-2026/02/15-16:34:58.624368 7f9493f0a0 Generated table #896@0: 38 keys, 4696 bytes
-2026/02/15-16:34:58.624462 7f9493f0a0 Compacted 1@0 + 1@1 files => 4696 bytes
-2026/02/15-16:34:58.629865 7f9493f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/02/15-16:34:58.630192 7f9493f0a0 Delete type=2 #891
-2026/02/15-16:34:58.630645 7f9493f0a0 Delete type=2 #895
-2026/02/15-16:34:58.658257 7f9493f0a0 Manual compaction at level-0 from '!combats.combatants!DCPor3zQpXdt0E33.pHP5hJAhbawwUJh2' @ 1192 : 1 .. '!combats.combatants!lvjXBkN8MIcRtWVd.bkFO0pqA34HgzNdb' @ 0 : 0; will stop at (end)
+2026/02/17-19:21:53.078975 7f9ea5f0a0 Recovering log #894
+2026/02/17-19:21:53.102436 7f9ea5f0a0 Delete type=3 #892
+2026/02/17-19:21:53.102661 7f9ea5f0a0 Delete type=0 #894
+2026/02/17-23:34:39.423542 7f9493f0a0 Level-0 table #900: started
+2026/02/17-23:34:39.437457 7f9493f0a0 Level-0 table #900: 21461 bytes OK
+2026/02/17-23:34:39.443980 7f9493f0a0 Delete type=0 #898
+2026/02/17-23:34:39.912916 7f9493f0a0 Manual compaction at level-0 from '!combats!9vMkgw4NaVtK1yyW' @ 72057594037927935 : 1 .. '!combats.combatants!lvjXBkN8MIcRtWVd.bkFO0pqA34HgzNdb' @ 0 : 0; will stop at '!combats.combatants!DCPor3zQpXdt0E33.t2vTDdhWSNZtiZ0x' @ 1285 : 1
+2026/02/17-23:34:39.913247 7f9493f0a0 Compacting 1@0 + 1@1 files
+2026/02/17-23:34:39.924933 7f9493f0a0 Generated table #901@0: 17 keys, 1767 bytes
+2026/02/17-23:34:39.925028 7f9493f0a0 Compacted 1@0 + 1@1 files => 1767 bytes
+2026/02/17-23:34:39.931028 7f9493f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/17-23:34:39.931342 7f9493f0a0 Delete type=2 #896
+2026/02/17-23:34:39.931661 7f9493f0a0 Delete type=2 #900
+2026/02/17-23:34:39.978962 7f9493f0a0 Manual compaction at level-0 from '!combats.combatants!DCPor3zQpXdt0E33.t2vTDdhWSNZtiZ0x' @ 1285 : 1 .. '!combats.combatants!lvjXBkN8MIcRtWVd.bkFO0pqA34HgzNdb' @ 0 : 0; will stop at (end)

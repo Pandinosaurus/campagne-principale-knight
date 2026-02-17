@@ -1,11 +1,7 @@
-2026/02/15-11:57:41.024 1fc4 Delete type=3 #1
-2026/02/15-13:15:03.305 495c Level-0 table #874: started
-2026/02/15-13:15:03.305 495c Level-0 table #874: 0 bytes OK
-2026/02/15-13:15:03.309 495c Delete type=0 #872
-2026/02/15-13:15:03.316 495c Manual compaction at level-0 from '!items!02QESeIlR6ESSmex' @ 72057594037927935 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 5328 : 1
-2026/02/15-13:15:03.316 495c Compacting 1@0 + 0@1 files
-2026/02/15-13:15:03.384 495c Generated table #875@0: 931 keys, 1081709 bytes
-2026/02/15-13:15:03.385 495c Compacted 1@0 + 0@1 files => 1081709 bytes
-2026/02/15-13:15:03.387 495c compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/02/15-13:15:03.388 495c Delete type=2 #869
-2026/02/15-13:15:03.407 495c Manual compaction at level-0 from '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 5328 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at (end)
+2026/02/15-12:17:24.436688 7f9fa7f0a0 Recovering log #873
+2026/02/15-12:17:24.465617 7f9fa7f0a0 Delete type=3 #871
+2026/02/15-12:17:24.465964 7f9fa7f0a0 Delete type=0 #873
+2026/02/15-16:34:58.658324 7f9493f0a0 Level-0 table #879: started
+2026/02/15-16:34:58.659511 7f9493f0a0 Level-0 table #879: 0 bytes OK
+2026/02/15-16:34:58.668378 7f9493f0a0 Delete type=0 #877
+2026/02/15-16:34:59.196967 7f9493f0a0 Manual compaction at level-0 from '!items!02QESeIlR6ESSmex' @ 72057594037927935 : 1 .. '!items.effects!jVWq2uJQeabkZ5mO.kwBbNWDqtQSu92Ua' @ 0 : 0; will stop at (end)
